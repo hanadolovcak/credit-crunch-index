@@ -8,8 +8,9 @@ The credit anxiety index measures market tension by combining:
 - Google Trends ("credit crunch") - subjective measure of public concern
 
 ## Formula
+```
 Anxiety index = credit spread + (Google Trends / 100)
-
+```
 
 ## Interpretation
 
